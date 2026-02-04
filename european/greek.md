@@ -1,8 +1,8 @@
 # Greek restaurant guide
 ## European ----> Greek
 ---
-Omonia Cafe
-Something Greek
+## Omonia Cafe
+## Something Greek
 ---
 
 [Start over](../home.md)
